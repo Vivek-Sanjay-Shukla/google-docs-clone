@@ -1,0 +1,35 @@
+.sidebar{
+   margin-top: 16px;
+   margin-left: 13px;
+}
+
+.icons-div{
+   display: block;
+   align-items: center;
+   justify-content: center;
+   width: 44px;
+   height: 44px;
+   margin-top: 20px;
+   margin-bottom: 30px;
+   border-radius: 50%;
+   cursor: pointer;
+}
+
+.icons-div:hover{
+    background-color: #b9baba;
+}
+
+.icons{
+   width: 27px;
+   height: 27px;
+   margin-top: 4px;
+   margin-left: 13px;
+   
+}
+
+.icons-1{
+   width: 24px;
+   height: 32px;
+   margin-top: 5px;
+   margin-left: 10px;
+}
